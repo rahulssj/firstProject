@@ -1,0 +1,31 @@
+img{
+	width: 300px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	}
+
+.first{
+	width:25%;
+	border: 1px solid grey ;
+	box-shadow: 12px 6px 45px;
+	  }
+.second{
+	width:default;
+	border:1px solid grey;
+	 margin-left: 5px;
+	 margin-right: 5px;
+	 margin-top: 5px;
+	 margin-bottom: 5px;  
+
+	   }
+	   h3{
+	   	padding-left:4px;
+	   }
+	   p{
+	   	padding-left: 4px;
+	   }
+	   footer{
+	   	padding-left:4px;
+	   	margin-bottom: 3px;
+	   }
